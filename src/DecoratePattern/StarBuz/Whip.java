@@ -1,4 +1,4 @@
-package DecoratePattern;
+package DecoratePattern.StarBuz;
 
 public class Whip extends CondimentDecorator {
     public Whip(Beverage beverage) {

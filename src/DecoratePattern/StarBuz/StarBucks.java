@@ -1,4 +1,4 @@
-package DecoratePattern;
+package DecoratePattern.StarBuz;
 
 public class StarBucks {
     public static void main(String[] args) {

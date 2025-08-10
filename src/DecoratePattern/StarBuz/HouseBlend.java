@@ -1,4 +1,4 @@
-package DecoratePattern;
+package DecoratePattern.StarBuz;
 
 public class HouseBlend extends Beverage{
     public HouseBlend(){

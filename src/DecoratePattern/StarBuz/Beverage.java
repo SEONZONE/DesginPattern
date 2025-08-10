@@ -1,4 +1,4 @@
-package DecoratePattern;
+package DecoratePattern.StarBuz;
 
 public abstract class Beverage {
     String description = "제목 없음";
